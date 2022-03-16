@@ -1,0 +1,18 @@
+.timebox-list .x-boundlist-item {
+    overflow-x: hidden !important;
+}
+.rally-user-combobox {
+    border: none;
+}
+.filter-container .x-form-item-label {
+    font-weight:bold;
+}
+.clear-button {
+    background-color: transparent;
+    top: 2px !important;
+    background:  url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAHlJREFUeNpiYMAECUC8H4j/o+H9UDmcQAGIz2PRiI7PQ9ViaH5PhGYYfo9uyHkSNCO7BO5ndNMbsGhowOJKcJjsx6IQ3WBY4DVgCViszktAMiQBh0thGKcfE9CiFqs6JgYqAIq9QHEgUhyNFCckqiRlijMT2dkZIMAAQSOoo+oDrMMAAAAASUVORK5CYII=') no-repeat left;
+    border: none;
+}
+.owner-container .clear-button {
+    margin-left: 5px !important;
+}
